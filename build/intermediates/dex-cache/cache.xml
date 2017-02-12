@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sensei/Documents/projects/AndroidStudio/PlaneGame/planeGame/build/intermediates/exploded-aar/PlaneGame/andEngine/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="169cbe384bdfc69daf1d019a10ac5d26c06b9fed">
+        <dex dex="/home/sensei/Documents/projects/AndroidStudio/PlaneGame/planeGame/build/intermediates/pre-dexed/debug/PlaneGame-andEngine-unspecified_fa8111376a7436636924d725b16a65340bb69305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sensei/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/sensei/Documents/projects/AndroidStudio/PlaneGame/planeGame/build/intermediates/pre-dexed/debug/support-v4-18.0.0_a4dc3714be8b8e9a5b629811ff183e048e38d9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sensei/Documents/projects/AndroidStudio/PlaneGame/planeGame/build/intermediates/exploded-aar/PlaneGame/andEnginePhysicsBox2DExtension/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fee9d38a5a8c29e4537279119aa5598c44133589">
+        <dex dex="/home/sensei/Documents/projects/AndroidStudio/PlaneGame/planeGame/build/intermediates/pre-dexed/debug/PlaneGame-andEnginePhysicsBox2DExtension-unspecified_7bd673437eefd65ef7427e411a7f54ecd72b8170.jar" />
+    </item>
+
+</items>
